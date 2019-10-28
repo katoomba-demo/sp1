@@ -32,7 +32,7 @@
          <artifactId>spring-boot-starter-test</artifactId>
          <scope>test</scope>
       </dependency>
-      <!-- Atomist agent -->
+      <!-- Atomist agent --> 
       <dependency>
          <groupId>com.atomist</groupId>
          <artifactId>spring-boot-agent</artifactId>
